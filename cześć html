@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klub wędkowania</title>
+</head>
+<body>
+<div  class="srodek"  >
+<h1>Wędkuj z nami</h1>
+<img src="c:\Users\uczen.DZDZW\Desktop\zadanie\ryby2\ryba2.jpg" alt="30px">   
+</div>
+<div  class="prawo"      >
+<h2>Ryby spokojnego żeru(białe)</h2>
+<p>2.Karp występuje na w:stawy,jeziora</p>
+<p>7.Lescz występuje w:jeziora</p>
+<p>8.Lin,wystepuję w:jeziora</p>   <a href="http://localhost/phpmyadmin/">Odwiedz także </a>   </p>
+  <a href="http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=w%C4%99dkowanie&table=ryby">Polski związek wędkarski</a> </h3 >
+    </div>
+    <div class="dol" >
+<h1>Strone wykonał:0000000000000</h1>
+    </div>
+</body>
+</html>
