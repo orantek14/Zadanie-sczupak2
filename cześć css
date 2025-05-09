@@ -1,0 +1,29 @@
+body{
+
+background-color: bisque;
+
+
+}
+
+#srodek{
+    text-align:center; color: aliceblue;
+    padding-top: 50px;color: forestgreen;
+
+
+}
+
+#prawo{
+
+
+
+}
+
+
+#dol{
+    padding-top: 50px;color: forestgreen;
+
+
+
+
+
+}
